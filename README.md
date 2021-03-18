@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @jostur18.
-- 👀 I’m interested in cyber security, more specifically DFIR and a particular curiosity in OSINT as of late.
-- 🌱 I’m currently learning how to build + deploy a static site using Hugo and a Digital Ocean droplet...!
+- 👋 Hi, I’m @jostur18!
+- 👀 I’m interested in cyber security, more specifically DFIR and a particular curiosity in OSINT as of late
+- 🌱 I’m currently building my website using Hugo, an open-source static site generator, and the Netlify platform...!
 - 📫 You can reach me at me@joeyturner.com :)
 
 <!---

@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jostur18!
-- 👀 I’m interested in cyber security, more specifically DFIR and a particular curiosity in OSINT as of late
+- 👀 I’m a cyber security student, with a particular interest in DFIR and OSINT at the moment.
 - 🌱 I’m currently building my website using Hugo, an open-source static site generator, and the Netlify platform...!
 - 📫 You can reach me at me@joeyturner.com :)
 
